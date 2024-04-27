@@ -5,14 +5,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/minic99/minic99"
+    "url": "https://github.com/minic99/minic-serve"
   },
   "author": "minic99",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/minic99/minic99/issues"
+    "url": "https://github.com/minic99/minic-serve/issues"
   },
-  "homepage": "https://github.com/minic99/minic99",
+  "homepage": "https://github.com/minic99/minic-serve",
   "dependencies": {
     "@babel/preset-env": "^7.22.20",
     "@electron/remote": "^2.0.11",
